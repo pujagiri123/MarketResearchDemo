@@ -1,0 +1,4 @@
+com\qa\page\BasePage.class
+com\qa\test\LoginTest.class
+com\qa\page\Logout.class
+com\qa\page\Login.class
